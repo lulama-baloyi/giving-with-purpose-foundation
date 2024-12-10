@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.web.clientproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/clientside-project/1">
+            <name>wedePOE</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>Adhoc</word>
+            <word>Baloyi</word>
+            <word>Facebook</word>
+            <word>givingwith</word>
+            <word>givingwithpurpose</word>
+            <word>givingwithpurposeinfo</word>
+            <word>gmail</word>
+            <word>Instagram</word>
+            <word>Lulama</word>
+            <word>lulamabaloyi</word>
+            <word>recieving</word>
+            <word>toiletries</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
